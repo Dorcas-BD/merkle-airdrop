@@ -1,3 +1,7 @@
+deployed address: 0x8AA16F7D8524207f4A65A51c01ca21c53382D800
+
+Etherscan: https://rinkeby.etherscan.io/address/0x8AA16F7D8524207f4A65A51c01ca21c53382D800
+
 # merkle-airdrop
 
 Generates a list of abjects mapped to each address and root hash. Object contains the leaves and merkle proofs needed to verify that a given data exists for that address in the tree
